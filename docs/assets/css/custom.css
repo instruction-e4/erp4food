@@ -41,19 +41,19 @@ img {
 }
 
 .md-grid {
-    margin-left: 3%;
-    margin-right: auto;
-    max-width: 90%;
+  margin-left: 3%;
+  margin-right: auto;
+  max-width: 90%;
 }
 
 .md-typeset h3 {
-    line-height: 1.25;
-    margin: 1.0em 0 0.8em;
+  line-height: 1.25;
+  margin: 1.0em 0 0.8em;
 }  
 
 .md-typeset h2 {
-    line-height: 1.25;
-    margin: 1.0em 0 0.64em;
+  line-height: 1.25;
+  margin: 1.0em 0 0.64em;
 }
 
 .book-wrap:hover {
@@ -73,15 +73,16 @@ img {
   
 .read-more-target,
 .md-nav__icon{
-  transition: .25s ease;
+  transition: .5s .5s;
 }
 
 .hover:hover .md-nav__icon{
-  opacity: 1;
+  transition: .5s ease;
   transform: rotate(0.25turn);
 }
   
 .hover:hover .read-more-target {
+  transition: .5s ease;
   opacity: 1;
   font-size: 100%;
 }
