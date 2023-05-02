@@ -57,31 +57,31 @@ img {
 }
 
 .book-wrap:hover {
-    /*transform: scale(1.5);*/
-    z-index: 1;
-    transition: transform .5s;
-    cursor: pointer;
-  }
+  z-index: 1;
+  transition: transform .5s;
+  cursor: pointer;
+}
   
-  .read-more-target {
-    opacity: 0;
-    font-size: 0;
-  }
+.read-more-target {
+  opacity: 0;
+  font-size: 0;
+}
   
-  .md-nav__icon md-icon {
-    opacity: 1;
-  }
+.md-nav__icon{
+  opacity: 1;
+}
   
-  .read-more-target,
-  .md-nav__icon md-icon {
-    transition: .25s ease;
-  }
+.read-more-target,
+.md-nav__icon{
+  transition: .25s ease;
+}
+
+.hover:hover .md-nav__icon{
+  opacity: 1;
+  transform: rotate(0.25turn);
+}
   
-  .hover:hover .md-nav__icon md-icon {
-    opacity: 0;
-  }
-  
-  .hover:hover .read-more-target {
-    opacity: 1;
-    font-size: 100%;
-  }
+.hover:hover .read-more-target {
+  opacity: 1;
+  font-size: 100%;
+}

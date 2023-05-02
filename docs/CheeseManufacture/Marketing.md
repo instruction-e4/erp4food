@@ -10,5 +10,3 @@
 Пользователи: [Администратор](../Users/Administrator.md), [Маркетинг и планирование продаж](../Users/MarketingAndSalesPlanning.md)
 
 Справка: <a href="https://konstanta-it.github.io/erp4food/CRM/Marketing/MarketingEvent/" target="_blank"> Маркетинг </a>
-
-

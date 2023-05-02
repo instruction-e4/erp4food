@@ -1,8 +1,10 @@
 title: Пользователи
 collapse: false
 arrange:
+    - Administrator.md
     - LaboratoryAssistant.md
     - MarketingAndSalesPlanning.md
+    - Purchases.md
     - ShiftMaster.md
     - SalesManager.md
     - ManufacturePlanning.md

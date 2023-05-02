@@ -2,7 +2,7 @@
 
 <div class="book-wrap">
     <div class="hover">
-        <h2>Сырное производство<span class="md-nav__icon md-icon"></span></h2>
+        <h2>Сырное производство<span class="md-nav__icon"></span></h2>
         <span class="read-more-target">
             <div class="textcols">
                 <div class="textcols-item">
@@ -49,7 +49,7 @@
 
 <div class="book-wrap">
     <div class="hover">
-        <h2>Мясное производство<span class="md-nav__icon md-icon"></span></h2>
+        <h2>Мясное производство<span class="md-nav__icon"></span></h2>
         <span class="read-more-target">    
             <div class="textcols">
                 <div class="textcols-item">
@@ -94,7 +94,7 @@
 
 <div class="book-wrap">
     <div class="hover">
-        <h2>Пользователи<span class="md-nav__icon md-icon"></h2>
+        <h2>Пользователи<span class="md-nav__icon"></span></h2>
         <span class="read-more-target">     
             <div class="textcols">
                 <div class="textcols-item">
@@ -102,6 +102,7 @@
                     <ul>
                         <li><a href="Users/MarketingAndSalesPlanning"> Маркетинг и планирование продаж </a></li>
                         <li><a href="Users/SalesManager"> Менеджер по продажам </a></li>
+                        <li><a href="Users/Purchases"> Закупки </a></li>
                     </ul>
                     <h3>Склад</h3>
                     <ul>
@@ -127,6 +128,10 @@
                         <li><a href="Users/MeatManufacture"> Производство мясное </a></li>
                         <li><a href="Users/CheeseManufacture"> Производство сыра </a></li>
                         <li><a href="Users/Technologist"> Технолог </a></li>
+                    </ul>
+                    <h3>Администрирование</h3>
+                    <ul>
+                        <li><a href="Users/Administrator"> Администратор </a></li>
                     </ul>
                 </div>
             </div>
