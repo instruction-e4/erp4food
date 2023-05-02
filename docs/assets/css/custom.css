@@ -73,7 +73,7 @@ img {
   
 .read-more-target,
 .md-nav__icon{
-  transition: .5s .7s;
+  transition: .5s 1s;
 }
 
 .hover:hover .md-nav__icon{
