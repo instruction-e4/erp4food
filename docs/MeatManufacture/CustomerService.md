@@ -13,4 +13,4 @@
 
 Пользователи: [Администратор](../Users/Administrator.md), [Менеджер по продажам](../Users/SalesManager.md)
 
-Справка: <a href="https://konstanta-it.github.io/erp4food/CRM/CustomerService/CustomerServiceScheme/" target="_blank"> Клиентский сервис </a>
+Ссылка на руководство пользователя: <a href="https://konstanta-it.github.io/erp4food/CRM/CustomerService/CustomerServiceScheme/" target="_blank"> Клиентский сервис </a>

@@ -8,7 +8,8 @@ arrange:
     - ShiftMaster.md
     - SalesManager.md
     - ManufacturePlanning.md
-    - Receiver.md
+    - ReceiverMilk.md
+    - ReceiverMeat.md
     - MeatManufacture.md
     - CheeseManufacture.md
     - TSDUsage.md

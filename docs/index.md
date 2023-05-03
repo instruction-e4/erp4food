@@ -45,9 +45,6 @@
             </div>
         </span>
     </div>
-</div>
-
-<div class="book-wrap">
     <div class="hover">
         <h2>Мясное производство<span class="md-nav__icon"></span></h2>
         <span class="read-more-target">    
@@ -90,9 +87,6 @@
             </div>
         </span>
     </div>
-</div>
-
-<div class="book-wrap">
     <div class="hover">
         <h2>Пользователи<span class="md-nav__icon"></span></h2>
         <span class="read-more-target">     
@@ -124,7 +118,8 @@
                     <ul>
                         <li><a href="Users/LaboratoryAssistant"> Лаборант </a></li>
                         <li><a href="Users/ShiftMaster"> Мастер смены </a></li>
-                        <li><a href="Users/Receiver"> Приемщик (Мясное производство) </a></li>
+                        <li><a href="Users/Receiverilk"> Приемщик (Молочное производство) </a></li>
+                        <li><a href="Users/ReceiverMeat"> Приемщик (Мясное производство) </a></li>
                         <li><a href="Users/MeatManufacture"> Производство мясное </a></li>
                         <li><a href="Users/CheeseManufacture"> Производство сыра </a></li>
                         <li><a href="Users/Technologist"> Технолог </a></li>

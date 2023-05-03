@@ -8,4 +8,4 @@
 
 Пользователи: [Администратор](../Users/Administrator.md), [Менеджер по продажам](../Users/SalesManager.md)
 
-Справка: <a href="https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/PricesAndDiscounts/" target="_blank"> Ценообразование </a>
+Ссылка на руководство пользователя: <a href="https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/PricesAndDiscounts/" target="_blank"> Ценообразование </a>

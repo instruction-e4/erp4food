@@ -6,4 +6,4 @@
 
 Пользователи: [Администратор](../Users/Administrator.md), [Складской логист](../Users/WarehouseLogistician.md)
 
-Справка: <a href="https://konstanta-it.github.io/erp4food/Warehouse/SimpleWarehouse/Inventar/" target="_blank"> Инвентаризация </a>
+Ссылка на руководство пользователя: <a href="https://konstanta-it.github.io/erp4food/Warehouse/SimpleWarehouse/Inventar/" target="_blank"> Инвентаризация </a>

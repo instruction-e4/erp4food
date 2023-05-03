@@ -8,4 +8,4 @@
 
 Пользователи: [Администратор](../Users/Administrator.md), [Закупки](../Users/Purchases.md)
 
-Справка: <a href="https://konstanta-it.github.io/erp4food/Purchases/OrderToSupplier/" target="_blank"> Закупки </a>
+Ссылка на руководство пользователя: <a href="https://konstanta-it.github.io/erp4food/Purchases/OrderToSupplier/" target="_blank"> Закупки </a>

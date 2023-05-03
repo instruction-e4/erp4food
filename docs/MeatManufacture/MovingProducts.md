@@ -11,4 +11,4 @@
 
 Пользователи: [Администратор](../Users/Administrator.md), [Складской логист](../Users/WarehouseLogistician.md)
 
-Справка: <a href="https://konstanta-it.github.io/erp4food/Warehouse/SimpleWarehouse/Peremeshenie/PeremeshenieMegduSkladamiNaTCD/" target="_blank"> Перемещение между складами </a>
+Ссылка на руководство пользователя: <a href="https://konstanta-it.github.io/erp4food/Warehouse/SimpleWarehouse/Peremeshenie/PeremeshenieMegduSkladamiNaTCD/" target="_blank"> Перемещение между складами </a>
