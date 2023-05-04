@@ -101,5 +101,6 @@
 </div>
 
 Пользователь: [Производство мясное](../Users/MeatManufacture.md)
+
 Ссылка на руководство пользователя: <a href="https://konstanta-it.github.io/erp4food/Manufacture/Meat/SausageProduction/PreparationOfSpices/" target="_blank"> Колбасное производство</a>
 

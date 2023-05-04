@@ -9,6 +9,6 @@
 7. Создается “Перемещение товаров 0000-000002 от 23.04.2020” в АРМе “Формирование накладных”.
 8. На основании Перемещения товаров создается Распоряжение на приемку.
 
-Пользователи: [Администратор](../Users/Administrator.md), [Складской логист](../Users/WarehouseLogistician.md)
+Пользователи: [Складской логист](../Users/WarehouseLogistician.md), [Транспортный логист](../Users/TransportLogistician.md)
 
 Ссылка на руководство пользователя: <a href="https://konstanta-it.github.io/erp4food/Warehouse/SimpleWarehouse/Peremeshenie/PeremeshenieMegduSkladamiNaTCD/" target="_blank"> Перемещение между складами </a>
