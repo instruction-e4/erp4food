@@ -2,5 +2,10 @@
 
 Данный пользователь отвечает за каждодневное планирование производства.
 
-- [Планирование производства(Сыр)](../CheeseManufacture/ManufacturePlanning.md)
-- [Планирование производства(Мясо)](../MeatManufacture/ManufacturePlanning.md)
+Сырное производство:
+
+- [Планирование производства](../CheeseManufacture/ManufacturePlanning.md)
+
+Мясное производство:
+
+- [Планирование производства](../MeatManufacture/ManufacturePlanning.md)

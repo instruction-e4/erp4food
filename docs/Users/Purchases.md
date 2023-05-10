@@ -2,5 +2,10 @@
 
 Данный пользователь отвечает за закупки в системе.
 
-- [Закупка(Сыр)](../CheeseManufacture/Purchases.md)
-- [Закупка(Мясо)](../MeatManufacture/Purchases.md)
+Сырное производство:
+
+- [Закупка](../CheeseManufacture/Purchases.md)
+
+Мясное производство:
+
+- [Закупка](../MeatManufacture/Purchases.md)

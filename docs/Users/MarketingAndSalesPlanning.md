@@ -2,5 +2,10 @@
 
 Данный пользователь отвечает за планирование продаж и проведение маркетинговых мероприятий.
 
-- [Маркетинг(Сыр)](../CheeseManufacture/Marketing.md)
-- [Маркетинг(Мясо)](../MeatManufacture/Marketing.md)
+Сырное производство:
+
+- [Маркетинг](../CheeseManufacture/Marketing.md)
+
+Мясное производство:
+
+- [Маркетинг](../MeatManufacture/Marketing.md)

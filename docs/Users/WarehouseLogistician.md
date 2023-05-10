@@ -2,5 +2,10 @@
 
 Данный пользователь отвечает за складские операции и маркировку.
 
-- [Перемещение товаров(Сыр)](../CheeseManufacture/MovingProducts.md)
-- [Перемещение товаров(Мясо)](../MeatManufacture/MovingProducts.md)
+Сырное производство:
+
+- [Перемещение товаров](../CheeseManufacture/MovingProducts.md)
+
+Мясное производство:
+
+- [Перемещение товаров](../MeatManufacture/MovingProducts.md)

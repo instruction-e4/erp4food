@@ -2,7 +2,12 @@
 
 Менеджер по продажам отвечает за ценообразование и клиентский сервис.
 
-- [Ценообразование(Сыр)](../CheeseManufacture/Pricing.md)
-- [Ценообразование(Мясо)](../MeatManufacture/Pricing.md)
-- [Клиентский сервис(Сыр)](../CheeseManufacture/CustomerService.md)
-- [Клиентский сервис(Мясо)](../MeatManufacture/CustomerService.md)
+Сырное производство:
+
+- [Ценообразование](../CheeseManufacture/Pricing.md)
+- [Клиентский сервис](../CheeseManufacture/CustomerService.md)
+
+Мясное производство:
+
+- [Клиентский сервис](../MeatManufacture/CustomerService.md)
+- [Ценообразование](../MeatManufacture/Pricing.md)
